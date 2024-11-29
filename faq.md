@@ -53,5 +53,5 @@ The idle timeout duration is **6 hours**.
 <details>
 <summary>7. How do I provide feedback or make a request?</summary>
 
-Leave us a comment on the canvas on `#core-engineering-products` for M365 on SEED.
+Leave your feedback or request in [this thread](https://gahmen.slack.com/archives/C03NBJ905CK/p1732695851531639) for M365/ExO on SEED.
 </details>
