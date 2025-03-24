@@ -55,3 +55,12 @@ The idle timeout duration is **6 hours**.
 
 Leave your feedback or request in [this thread](https://gahmen.slack.com/archives/C03NBJ905CK/p1732695851531639) for M365/ExO on SEED.
 </details>
+
+<details> <summary>8. I am a Secure Email user, why cannot I access my email on SEED?</summary>
+Secure emails and mailboxes are not migrated to ExO, so they cannot be accessed on SEED.
+
+</details>
+<details> <summary>9. How do I provide feedback or make a request?</summary>
+Leave a comment on the canvas in Slack for M365 on SEED.
+
+</details>
