@@ -65,3 +65,19 @@ Secure email accounts and mailboxes are not migrated to ExO, so they cannot be a
 Leave a comment on the M365 on SEED canvas in Slack.
 
 </details>
+
+<details>
+<summary>9. How do I resolve the “You cannot access this right now” error when using RBI?</summary>
+
+If you encounter this error, it usually means the link was not opened through the RBI input field.
+
+To resolve this:
+
+1. Copy the full file link (for example, from Outlook or SharePoint).
+2. Paste the link into the RBI URL textbox (the blue address bar).
+3. Press Enter to access the resource.
+
+> [!IMPORTANT]
+> Ensure that the URL is pasted into the RBI textbox (blue address bar), not opened directly in the browser. Opening the link outside of RBI may result in access being blocked.
+
+</details>
