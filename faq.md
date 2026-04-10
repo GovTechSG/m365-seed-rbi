@@ -67,7 +67,7 @@ Leave a comment on the M365 on SEED canvas in Slack.
 </details>
 
 <details>
-<summary>20. How do I resolve the “You cannot access this right now” error when using RBI?</summary>
+<summary>10. How do I resolve the “You cannot access this right now” error when using RBI?</summary>
 
 If you encounter this error, it usually means the link was not opened through the RBI input field.
 
