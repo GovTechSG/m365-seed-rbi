@@ -74,7 +74,13 @@ If you encounter this error, it usually means the link was not opened through th
 To resolve this:
 
 1. Copy the full file link (for example, from Outlook or SharePoint).
+
+   ![Copy file link](images/rbi-ss.png)
+
 2. Paste the link into the RBI URL textbox (the blue address bar).
+
+   ![Paste link into RBI](images/copy-paste.png)
+
 3. Press Enter to access the resource.
 
 > [!IMPORTANT]
